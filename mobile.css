@@ -1,0 +1,11 @@
+.glass {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.dashboard {
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
